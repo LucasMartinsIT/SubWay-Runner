@@ -1,2 +1,14 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Ignorar arquivos gerados pela Unity nas estatisticas do GitHub
+*.meta linguist-generated=true
+*.mat linguist-generated=true
+*.anim linguist-generated=true
+*.prefab linguist-generated=true
+*.unity linguist-generated=true
+*.asset linguist-generated=true
+*.controller linguist-generated=true
+
+# Ignorar pacotes embutidos e plugins de terceiros
+Packages/** linguist-vendored=true
+Assets/Plugins/** linguist-vendored=true
