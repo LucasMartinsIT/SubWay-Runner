@@ -1,0 +1,41 @@
+# ==========================================
+# Unity 3D .gitignore
+# ==========================================
+
+# Pastas geradas automaticamente pela Unity (Nunca suba isso)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# Arquivos de cache e metadados de sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Arquivos de projeto da IDE (Visual Studio, Rider, VSCode)
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Crash reports
+sysinfo.txt
+crash_info.txt
