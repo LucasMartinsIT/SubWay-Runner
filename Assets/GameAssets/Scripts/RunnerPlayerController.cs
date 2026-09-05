@@ -26,7 +26,7 @@ public class RunnerPlayerController : MonoBehaviour
 
         //Player Movement
         PlayerMove();
-
+        PcControls();
     }
 
     public void PlayerMove()
@@ -54,4 +54,64 @@ public class RunnerPlayerController : MonoBehaviour
         controller.Move(move * Time.deltaTime);
     }
 
+    public void PcControls()
+    {
+#if UNITY_EDITOR || UNITY_STANDALONE
+        if(Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D))
+        {
+            desiredLane = Mathf.Min(desiredLane + 1, 2);
+        }
+        if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A))
+        {
+            desiredLane = Mathf.Max(desiredLane -1, 0);
+        }
+        if (Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.Space))
+        {
+            Jump();
+        }
+        if (Input.GetKeyDown(KeyCode.DownArrow) || Input.GetKeyDown(KeyCode.S))
+        {
+            Slide();
+        }
+
+#endif
+
+
+    }
+
+    public void Jump()
+    {
+        if (!controller.isGrounded) return;
+
+        verticalVelocity = jumpForce;
+
+        animator.SetBool("IsJumping", true);
+    }
+
+    public void Slide()
+    {
+        if(!isSliding && controller.isGrounded)
+        {
+            StartCoroutine(DoSlide());
+        }
+    }
+    private IEnumerator DoSlide()
+    {
+        isSliding = true;
+        animator.SetBool("IsSliding", true);
+
+        float origH = controller.height;
+        Vector3 origC = controller.center;
+
+        controller.height = origH / 2f;
+        controller.center = new Vector3(origC.x, origC.y / 2f, origC.z);
+
+        yield return new WaitForSeconds(slideDuration);
+
+        controller.height = origH;
+        controller.center = origC;
+
+        animator.SetBool("IsSliding", false);
+        isSliding = false;
+    }
 }
