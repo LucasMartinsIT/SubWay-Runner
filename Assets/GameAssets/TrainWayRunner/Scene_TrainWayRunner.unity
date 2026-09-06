@@ -119,6 +119,779 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &593252 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5192430942472074874, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &593258
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 593252}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &5078231 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7030389249390447020, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5078234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5078231}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &8690667 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1196860181290343343, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8690673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8690667}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &10410561 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2259462103437846254, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &10410566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 10410561}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &17888881 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 300274545469517945, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &17888887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 17888881}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &25326671 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2055775074269804859, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &25326677
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 25326671}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &30650823 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7187945566821300157, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &30650828
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 30650823}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &34268904 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1050730266222869641, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &34268907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 34268904}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &37057531 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2325502454990172824, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &37057536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 37057531}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &38874344 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4185730667930863710, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &38874348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 38874344}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &49106856 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3664244879584663313, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &49106861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 49106856}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &53063557 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 579341965260885304, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &53063562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 53063557}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &54434983 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5802709656743857088, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &54434989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 54434983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &67694217 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8552211125565851578, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &67694223
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 67694217}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &71220008 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5963275066329190764, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &71220014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 71220008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &95393565 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3283473887347190321, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &95393571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 95393565}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &107646840 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6046314885299954273, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &107646845
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 107646840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &118053673 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2599410474181149338, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &118053679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 118053673}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &120985802 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1943817440704586115, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &120985808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 120985802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &124727475 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3182496012137151038, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &124727480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 124727475}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &128432496 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1687154353448577934, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &128432502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 128432496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &135319547 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2542411026832925657, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &135319553
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 135319547}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &140891585 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2257371448158515060, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &140891591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 140891585}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &141820016 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8692348999781810516, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &141820021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141820016}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &147866315 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6563468649983617460, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &147866321
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 147866315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &152433453 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9221628873684702217, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &152433459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 152433453}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &174973980 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2047814836149776998, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &174973986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 174973980}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &184614207 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5017563861945232410, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &184614213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 184614207}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &186262725 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8488538074749361934, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &186262730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 186262725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &205777973 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3235130980584075169, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &205777979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 205777973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &206995275 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5223891815247786498, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &206995280
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 206995275}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &214293431 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6741300910198151369, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &214293436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 214293431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &226792383 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8213511413973478771, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &226792388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 226792383}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &255741557 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8962853458200903413, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &255741560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 255741557}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &283796790 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7478370325401696096, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &283796796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 283796790}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &289339102 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8171055371572090066, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &289339108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 289339102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &294173765 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6063589142113466860, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &294173770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 294173765}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &294242608 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6497003614020155425, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &294242614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 294242608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &304190020 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1053075733639178185, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &304190026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 304190020}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &309061667 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9190924171892127159, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &309061673
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 309061667}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &309608068 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5062990706068497371, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &309608073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 309608068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &313606213 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5426472468817310072, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &313606219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 313606213}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &315419652 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6325797556751835147, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &315419658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 315419652}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &317607755 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8154643244154184573, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &317607760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 317607755}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
 --- !u!1 &335064272
 GameObject:
   m_ObjectHideFlags: 0
@@ -198,6 +971,40 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &344614263 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6764744551898704673, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &344614268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 344614263}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &357798376 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 451773630376324636, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &357798381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 357798376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
 --- !u!1001 &367009856
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -523,7 +1330,7 @@ MonoBehaviour:
   forwardSpeed: 8
   laneDistance: 2
   horizontalSmooth: 10
-  jumpForce: 6
+  jumpForce: 10
   gravity: -22
   slideDuration: 0.68
   animator: {fileID: 367009861}
@@ -533,6 +1340,1150 @@ Animator:
   m_CorrespondingSourceObject: {fileID: 5866666021909216657, guid: b3370556021321f4dbaa758104580d63, type: 3}
   m_PrefabInstance: {fileID: 367009856}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &371412765 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5289979839285938902, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &371412771
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 371412765}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &384575962 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 832531429079588097, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &384575965
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384575962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &389154302 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7722068181831998028, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &389154308
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 389154302}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &402705155 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4600331097689117081, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &402705161
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 402705155}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &413332594 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5626105151605754607, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &413332597
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 413332594}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &413721894 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7448247312176336455, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &413721900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 413721894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &417740598 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4490364392375724917, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &417740604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 417740598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &430113501 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8668815530550242114, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &430113507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 430113501}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &479188114 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8949699614645660664, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &479188120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 479188114}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &487539870 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3444068242352474352, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &487539876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 487539870}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &498121393 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4473049714318319925, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &498121396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 498121393}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &501855339 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3854085408481714759, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &501855344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 501855339}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &523200092 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1248672850325386696, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &523200098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 523200092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &539309848 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6657535988528763971, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &539309854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 539309848}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &551562391 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8558323009462540525, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &551562394
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 551562391}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &563459567 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6745073695157070427, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &563459573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 563459567}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &572484571 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6472496425404531150, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &572484577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 572484571}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &583586680 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8405335162190758298, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &583586685
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 583586680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &587939212 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7895915141547678825, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &587939218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 587939212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &592019460 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1376688458004493613, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &592019466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 592019460}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &597345398 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1091788177818002716, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &597345401
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 597345398}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &615909388 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 291576161619538171, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &615909393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 615909388}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &623886113 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5632900682174433447, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &623886119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 623886113}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &626742170 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5034736455300546636, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &626742175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 626742170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &656854541 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2502908845402655491, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &656854546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 656854541}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &679594802 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4996864213948822880, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &679594808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 679594802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &684193691 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2674446429106257826, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &684193697
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 684193691}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &703590829 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3030433771111001969, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &703590835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 703590829}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &703835572 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2483628981775666169, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &703835578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 703835572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &710107230 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6240921923885859745, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &710107236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 710107230}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &713258122 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6931674344956115583, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &713258128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 713258122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &728018505 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1201048962459985658, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &728018508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 728018505}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &728114927 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7158095606128343595, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &728114932
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 728114927}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &731709437 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5514242598248424718, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &731709443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 731709437}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &732692285 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6964067896821243889, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &732692291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 732692285}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &738257512 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2903265743068977662, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &738257517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 738257512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &750295115 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5279941009788853577, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &750295121
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 750295115}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &763506858 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6271679341372610067, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &763506863
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 763506858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &777660748 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1842539886882121494, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &777660751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 777660748}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &794626683 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8094334534029699730, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &794626689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 794626683}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &800705601 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1380404511442203555, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &800705607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 800705601}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &805762557 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2114013342469578173, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &805762563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 805762557}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &816694028 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7803672448754603702, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &816694033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 816694028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &818829086 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2985475718485576521, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &818829089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 818829086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &836643756 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3364692271726910575, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &836643762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 836643756}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &836775522 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6788261301904230847, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &836775525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 836775522}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &837777722 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8201015529406282933, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &837777727
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 837777722}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &853062578 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 686689605936783422, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &853062584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 853062578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &874610273 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 721101672600365320, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &874610278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 874610273}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &883025985 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4929934734567470502, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &883025991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 883025985}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &887853485 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7536574316005476636, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &887853491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 887853485}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &891373482 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6236354575478590527, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &891373485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 891373482}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &926082280 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 801634971064746988, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &926082286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 926082280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &927546116 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4339017036541309401, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &927546121
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 927546116}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &931062954 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1036448177215115054, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &931062960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 931062954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &936527751 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1510254646971167537, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &936527756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 936527751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &947262063 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6783854921752332612, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &947262069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 947262063}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &977867704 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4709711059827110603, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &977867710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 977867704}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1066685650 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 98758499119300249, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1066685655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066685650}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1091166943 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8476197644072319364, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1091166949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1091166943}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1094623376 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1004208891412279509, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1094623382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1094623376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1136443543 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6842636446803163723, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1136443546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1136443543}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1138356641 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7267669721293653499, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1138356647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1138356641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1145212870 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7648895178668939030, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1145212875
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1145212870}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1166115069 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4046948121523986594, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1166115075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1166115069}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
 --- !u!1 &1171353947
 GameObject:
   m_ObjectHideFlags: 0
@@ -660,6 +2611,1440 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_RenderingLayers: 1
   m_ShadowRenderingLayers: 1
+--- !u!1 &1179253268 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5896091935731083394, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1179253273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1179253268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1180733079 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3563858124937586334, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1180733085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1180733079}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1193033544 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2779970420559094837, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1193033550
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1193033544}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1194813223 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7985025790806354572, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1194813229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1194813223}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1199160659 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5793814451076202049, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1199160665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1199160659}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1211602069 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4859879644020948812, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1211602075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1211602069}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1227303943 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9060028032194809397, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1227303948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1227303943}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1255016459 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3887310140901168804, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1255016464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1255016459}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1260589555 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1427585493034394491, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1260589559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1260589555}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1276444131 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 566240551070867700, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1276444137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1276444131}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1295208558 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5896886212474163623, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1295208560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1295208558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1298925384 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2497521196711321972, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1298925390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1298925384}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1319335763 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3769224313521095497, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1319335769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1319335763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1342752190 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1297852797652897010, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1342752193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1342752190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1349617717 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 402076566061474666, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1349617723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1349617717}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1357855827 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7001878448434042381, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1357855832
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1357855827}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1364364129 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7861800606866492725, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1364364134
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1364364129}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1367861879 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7974549881023891007, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1367861884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1367861879}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1371305698 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8481683188164893029, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1371305702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1371305698}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1374936244 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3843299599033837211, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1374936250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1374936244}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1401471682 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8744854155770461064, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1401471688
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1401471682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1410863406 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1026227645481212628, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1410863411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1410863406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1411186086 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 720854391897831334, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1411186091
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1411186086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1433534696 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 661305423455954305, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1433534702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1433534696}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1435049662 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2103244932875384389, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1435049668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1435049662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1456649674 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5182855600034585565, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1456649680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1456649674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1505747627 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1300841774886369540, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1505747633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1505747627}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1539246683 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8959058227951742746, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1539246689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1539246683}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1547231152 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1745919152414535638, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1547231157
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1547231152}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1576736431 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7859047977513415605, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1576736437
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1576736431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1604391917 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3403219811442544946, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1604391923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1604391917}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1607605380 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2515784657899130175, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1607605385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1607605380}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1615495661 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1613060065288064098, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1615495667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1615495661}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1619831318 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5417312689701161849, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1619831321
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1619831318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1625215364 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8810833159044306267, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1625215370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1625215364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1679528062 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6548369835126744653, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1679528068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1679528062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1685231995 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9000274252225956499, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1685232001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1685231995}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1693488831 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7860569715904235850, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1693488837
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1693488831}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1695698165 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5676230310777981212, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1695698170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1695698165}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1698430346 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1198422373622331312, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1698430351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1698430346}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1699749589 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1699975513680230893, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1699749595
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1699749589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1718265315 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7006039007175795508, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1718265321
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1718265315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1731603129 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6854613584771867519, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1731603135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1731603129}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1756522686 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3138475465296352840, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1756522692
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1756522686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1781385035 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3709358345571509640, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1781385040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1781385035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1785066020 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5441342487759976267, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1785066025
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1785066020}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1787552856 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 163938831195989244, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1787552861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1787552856}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1788753405 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8221492394693120663, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1788753410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1788753405}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1797181409 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6351337116660383838, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1797181414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1797181409}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1800486216 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8885798012014303192, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1800486221
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1800486216}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1801398897 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 589498137792322136, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1801398903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1801398897}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1807743852 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2109149490793911240, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1807743855
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1807743852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1810977141 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1608799822585048788, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1810977147
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1810977141}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1811186620 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8251848524946975308, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1811186624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1811186620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1813595598 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6603678403105876672, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1813595604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1813595598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1819213118 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 715023997680538409, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1819213123
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1819213118}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1822257342 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6666954690074689833, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1822257347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1822257342}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1827236808 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6408048088216763389, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1827236814
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827236808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1851583083 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5982352735273672284, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1851583088
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1851583083}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1856518526 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1111998967612510109, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1856518531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1856518526}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1890856407 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4452198355162680997, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1890856412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1890856407}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1910605062 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6269088690109402021, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1910605068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1910605062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1918689164 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2734172718454943418, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1918689167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1918689164}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1920305845 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 928299387504596655, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1920305850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1920305845}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1927507757 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9177017079278699785, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1927507762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1927507757}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1928494852 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 288763179304689001, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1928494857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1928494852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1931441596 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8891129796181468808, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1931441601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1931441596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1932770793 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7703385700026841054, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1932770798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1932770793}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1937217382 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1131166783222558371, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1937217388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1937217382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1938223965 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8629073133395180399, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1938223971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1938223965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1939571634 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6361024757828302128, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1939571640
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1939571634}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1956136016 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3167618897476866727, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1956136022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1956136016}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1956744892 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6894508539545641756, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1956744898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1956744892}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1958919805 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1734227335886419310, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1958919811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1958919805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1963504581 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7394641865377168, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1963504586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1963504581}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1976139800 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8638794300860928214, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1976139804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1976139800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1982698923 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 575684501205496124, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1982698928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1982698923}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1984079458 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7808373109503777152, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1984079464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1984079458}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &1985020702 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8719149903035128794, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1985020707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1985020702}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &1999170061 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 447656416704400392, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1999170067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1999170061}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &2028431068 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3073255482029416403, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2028431071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2028431068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &2047214366 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3496004108984614310, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2047214371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2047214366}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
 --- !u!1 &2047967331
 GameObject:
   m_ObjectHideFlags: 0
@@ -815,6 +4200,156 @@ MonoBehaviour:
   offset: {x: 0, y: 2.6, z: -5}
   followSmoothness: 0.1
   rotationSmoothness: 5
+--- !u!1 &2054324880 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6097756079561628121, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2054324885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2054324880}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &2056855850 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3875138669729518822, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2056855856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2056855850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &2082237077
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2082237079}
+  - component: {fileID: 2082237078}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2082237078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2082237077}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1058d9eca9e928c44a122e4e5fbc769f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GameManager
+--- !u!4 &2082237079
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2082237077}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2090670271 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3423531435254840895, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2090670277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2090670271}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &2118414132 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1333099090459895467, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2118414137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2118414132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23c7b8745c5b2b7429aa62e3bbba2088, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Obstacle
+--- !u!1 &2119797911 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7080569340880971981, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2119797917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2119797911}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
+--- !u!1 &2130172038 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2780681417615427187, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+  m_PrefabInstance: {fileID: 5176271283101827734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2130172044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2130172038}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad0c18a114c6ec40b4f3e67d62b5724, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
 --- !u!1001 &5176271283101827734
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -823,6 +4358,30 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 367815719832019371, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Size.x
+      value: 0.46048665
+      objectReference: {fileID: 0}
+    - target: {fileID: 367815719832019371, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Center.x
+      value: -0.92090523
+      objectReference: {fileID: 0}
+    - target: {fileID: 714459099477354287, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Size.x
+      value: 0.43818474
+      objectReference: {fileID: 0}
+    - target: {fileID: 714459099477354287, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Center.x
+      value: -0.94254327
+      objectReference: {fileID: 0}
+    - target: {fileID: 732012917836866000, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Size.x
+      value: 0.40744448
+      objectReference: {fileID: 0}
+    - target: {fileID: 732012917836866000, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Center.x
+      value: -0.9499402
+      objectReference: {fileID: 0}
     - target: {fileID: 924126346835843258, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -863,14 +4422,683 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1101806879906989643, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Size.x
+      value: 0.4840778
+      objectReference: {fileID: 0}
+    - target: {fileID: 1101806879906989643, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Center.x
+      value: -0.89121026
+      objectReference: {fileID: 0}
+    - target: {fileID: 2697399873485191245, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Size.x
+      value: 0.45943093
+      objectReference: {fileID: 0}
+    - target: {fileID: 2697399873485191245, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Center.x
+      value: 0.886799
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257219052154219723, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Size.x
+      value: 0.37811637
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257219052154219723, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Center.x
+      value: 0.97370875
+      objectReference: {fileID: 0}
+    - target: {fileID: 4108106608346500002, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Size.x
+      value: 0.42524123
+      objectReference: {fileID: 0}
+    - target: {fileID: 4108106608346500002, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Center.x
+      value: 0.9020928
+      objectReference: {fileID: 0}
+    - target: {fileID: 4275811313763545151, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Size.x
+      value: 0.3595233
+      objectReference: {fileID: 0}
+    - target: {fileID: 4275811313763545151, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Center.x
+      value: 0.86164045
+      objectReference: {fileID: 0}
     - target: {fileID: 4877694383670240327, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
       propertyPath: m_Name
       value: Env
       objectReference: {fileID: 0}
+    - target: {fileID: 4958868812838987578, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Size.x
+      value: 0.45092005
+      objectReference: {fileID: 0}
+    - target: {fileID: 4958868812838987578, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Center.x
+      value: -0.9282024
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967280904048891881, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Size.x
+      value: 0.4057843
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967280904048891881, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Center.x
+      value: 0.9406065
+      objectReference: {fileID: 0}
+    - target: {fileID: 6318530056078785648, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Size.x
+      value: 0.48688698
+      objectReference: {fileID: 0}
+    - target: {fileID: 6318530056078785648, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Center.x
+      value: 0.93990207
+      objectReference: {fileID: 0}
+    - target: {fileID: 8348058589393742267, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Size.x
+      value: 0.3691305
+      objectReference: {fileID: 0}
+    - target: {fileID: 8348058589393742267, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      propertyPath: m_Center.x
+      value: -0.87446433
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7030389249390447020, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5078234}
+    - targetCorrespondingSourceObject: {fileID: 1297852797652897010, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1342752193}
+    - targetCorrespondingSourceObject: {fileID: 5417312689701161849, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1619831321}
+    - targetCorrespondingSourceObject: {fileID: 1333099090459895467, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2118414137}
+    - targetCorrespondingSourceObject: {fileID: 5034736455300546636, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 626742175}
+    - targetCorrespondingSourceObject: {fileID: 6063589142113466860, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 294173770}
+    - targetCorrespondingSourceObject: {fileID: 7187945566821300157, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 30650828}
+    - targetCorrespondingSourceObject: {fileID: 5982352735273672284, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1851583088}
+    - targetCorrespondingSourceObject: {fileID: 928299387504596655, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1920305850}
+    - targetCorrespondingSourceObject: {fileID: 2734172718454943418, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1918689167}
+    - targetCorrespondingSourceObject: {fileID: 8251848524946975308, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1811186624}
+    - targetCorrespondingSourceObject: {fileID: 6046314885299954273, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 107646845}
+    - targetCorrespondingSourceObject: {fileID: 163938831195989244, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1787552861}
+    - targetCorrespondingSourceObject: {fileID: 8405335162190758298, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 583586685}
+    - targetCorrespondingSourceObject: {fileID: 8201015529406282933, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 837777727}
+    - targetCorrespondingSourceObject: {fileID: 1026227645481212628, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1410863411}
+    - targetCorrespondingSourceObject: {fileID: 9060028032194809397, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1227303948}
+    - targetCorrespondingSourceObject: {fileID: 1427585493034394491, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1260589559}
+    - targetCorrespondingSourceObject: {fileID: 5896886212474163623, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1295208560}
+    - targetCorrespondingSourceObject: {fileID: 7974549881023891007, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1367861884}
+    - targetCorrespondingSourceObject: {fileID: 4185730667930863710, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 38874348}
+    - targetCorrespondingSourceObject: {fileID: 8481683188164893029, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1371305702}
+    - targetCorrespondingSourceObject: {fileID: 8638794300860928214, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1976139804}
+    - targetCorrespondingSourceObject: {fileID: 7001878448434042381, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1357855832}
+    - targetCorrespondingSourceObject: {fileID: 2259462103437846254, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 10410566}
+    - targetCorrespondingSourceObject: {fileID: 7158095606128343595, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 728114932}
+    - targetCorrespondingSourceObject: {fileID: 721101672600365320, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 874610278}
+    - targetCorrespondingSourceObject: {fileID: 2903265743068977662, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 738257517}
+    - targetCorrespondingSourceObject: {fileID: 6666954690074689833, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1822257347}
+    - targetCorrespondingSourceObject: {fileID: 7648895178668939030, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1145212875}
+    - targetCorrespondingSourceObject: {fileID: 291576161619538171, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 615909393}
+    - targetCorrespondingSourceObject: {fileID: 3709358345571509640, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1781385040}
+    - targetCorrespondingSourceObject: {fileID: 8692348999781810516, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 141820021}
+    - targetCorrespondingSourceObject: {fileID: 8154643244154184573, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 317607760}
+    - targetCorrespondingSourceObject: {fileID: 579341965260885304, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 53063562}
+    - targetCorrespondingSourceObject: {fileID: 8885798012014303192, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1800486221}
+    - targetCorrespondingSourceObject: {fileID: 575684501205496124, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1982698928}
+    - targetCorrespondingSourceObject: {fileID: 2502908845402655491, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 656854546}
+    - targetCorrespondingSourceObject: {fileID: 3664244879584663313, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 49106861}
+    - targetCorrespondingSourceObject: {fileID: 6351337116660383838, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1797181414}
+    - targetCorrespondingSourceObject: {fileID: 4452198355162680997, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1890856412}
+    - targetCorrespondingSourceObject: {fileID: 1510254646971167537, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 936527756}
+    - targetCorrespondingSourceObject: {fileID: 9177017079278699785, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1927507762}
+    - targetCorrespondingSourceObject: {fileID: 8221492394693120663, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1788753410}
+    - targetCorrespondingSourceObject: {fileID: 6764744551898704673, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 344614268}
+    - targetCorrespondingSourceObject: {fileID: 5441342487759976267, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1785066025}
+    - targetCorrespondingSourceObject: {fileID: 4473049714318319925, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 498121396}
+    - targetCorrespondingSourceObject: {fileID: 3182496012137151038, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 124727480}
+    - targetCorrespondingSourceObject: {fileID: 4339017036541309401, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 927546121}
+    - targetCorrespondingSourceObject: {fileID: 832531429079588097, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 384575965}
+    - targetCorrespondingSourceObject: {fileID: 1745919152414535638, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1547231157}
+    - targetCorrespondingSourceObject: {fileID: 7394641865377168, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1963504586}
+    - targetCorrespondingSourceObject: {fileID: 8558323009462540525, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 551562394}
+    - targetCorrespondingSourceObject: {fileID: 3496004108984614310, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2047214371}
+    - targetCorrespondingSourceObject: {fileID: 8213511413973478771, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 226792388}
+    - targetCorrespondingSourceObject: {fileID: 1050730266222869641, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 34268907}
+    - targetCorrespondingSourceObject: {fileID: 8488538074749361934, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 186262730}
+    - targetCorrespondingSourceObject: {fileID: 5676230310777981212, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1695698170}
+    - targetCorrespondingSourceObject: {fileID: 5626105151605754607, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 413332597}
+    - targetCorrespondingSourceObject: {fileID: 5896091935731083394, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1179253273}
+    - targetCorrespondingSourceObject: {fileID: 6097756079561628121, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2054324885}
+    - targetCorrespondingSourceObject: {fileID: 8962853458200903413, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 255741560}
+    - targetCorrespondingSourceObject: {fileID: 7803672448754603702, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 816694033}
+    - targetCorrespondingSourceObject: {fileID: 6271679341372610067, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 763506863}
+    - targetCorrespondingSourceObject: {fileID: 1091788177818002716, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 597345401}
+    - targetCorrespondingSourceObject: {fileID: 5223891815247786498, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 206995280}
+    - targetCorrespondingSourceObject: {fileID: 98758499119300249, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1066685655}
+    - targetCorrespondingSourceObject: {fileID: 1201048962459985658, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 728018508}
+    - targetCorrespondingSourceObject: {fileID: 1111998967612510109, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1856518531}
+    - targetCorrespondingSourceObject: {fileID: 720854391897831334, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1411186091}
+    - targetCorrespondingSourceObject: {fileID: 2109149490793911240, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1807743855}
+    - targetCorrespondingSourceObject: {fileID: 7861800606866492725, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1364364134}
+    - targetCorrespondingSourceObject: {fileID: 3887310140901168804, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1255016464}
+    - targetCorrespondingSourceObject: {fileID: 6236354575478590527, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 891373485}
+    - targetCorrespondingSourceObject: {fileID: 1198422373622331312, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1698430351}
+    - targetCorrespondingSourceObject: {fileID: 715023997680538409, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1819213123}
+    - targetCorrespondingSourceObject: {fileID: 1842539886882121494, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 777660751}
+    - targetCorrespondingSourceObject: {fileID: 3854085408481714759, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 501855344}
+    - targetCorrespondingSourceObject: {fileID: 451773630376324636, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 357798381}
+    - targetCorrespondingSourceObject: {fileID: 2985475718485576521, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 818829089}
+    - targetCorrespondingSourceObject: {fileID: 5062990706068497371, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 309608073}
+    - targetCorrespondingSourceObject: {fileID: 8891129796181468808, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1931441601}
+    - targetCorrespondingSourceObject: {fileID: 6842636446803163723, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1136443546}
+    - targetCorrespondingSourceObject: {fileID: 6741300910198151369, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 214293436}
+    - targetCorrespondingSourceObject: {fileID: 288763179304689001, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1928494857}
+    - targetCorrespondingSourceObject: {fileID: 6788261301904230847, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 836775525}
+    - targetCorrespondingSourceObject: {fileID: 2515784657899130175, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1607605385}
+    - targetCorrespondingSourceObject: {fileID: 8719149903035128794, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1985020707}
+    - targetCorrespondingSourceObject: {fileID: 3073255482029416403, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2028431071}
+    - targetCorrespondingSourceObject: {fileID: 7703385700026841054, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1932770798}
+    - targetCorrespondingSourceObject: {fileID: 2325502454990172824, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 37057536}
+    - targetCorrespondingSourceObject: {fileID: 2542411026832925657, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 135319553}
+    - targetCorrespondingSourceObject: {fileID: 6854613584771867519, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1731603135}
+    - targetCorrespondingSourceObject: {fileID: 402076566061474666, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1349617723}
+    - targetCorrespondingSourceObject: {fileID: 7478370325401696096, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 283796796}
+    - targetCorrespondingSourceObject: {fileID: 1376688458004493613, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 592019466}
+    - targetCorrespondingSourceObject: {fileID: 1943817440704586115, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 120985808}
+    - targetCorrespondingSourceObject: {fileID: 1036448177215115054, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 931062960}
+    - targetCorrespondingSourceObject: {fileID: 3875138669729518822, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2056855856}
+    - targetCorrespondingSourceObject: {fileID: 1196860181290343343, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8690673}
+    - targetCorrespondingSourceObject: {fileID: 447656416704400392, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1999170067}
+    - targetCorrespondingSourceObject: {fileID: 9190924171892127159, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 309061673}
+    - targetCorrespondingSourceObject: {fileID: 7895915141547678825, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 587939218}
+    - targetCorrespondingSourceObject: {fileID: 5802709656743857088, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 54434989}
+    - targetCorrespondingSourceObject: {fileID: 1699975513680230893, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1699749595}
+    - targetCorrespondingSourceObject: {fileID: 6240921923885859745, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 710107236}
+    - targetCorrespondingSourceObject: {fileID: 801634971064746988, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 926082286}
+    - targetCorrespondingSourceObject: {fileID: 8171055371572090066, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 289339108}
+    - targetCorrespondingSourceObject: {fileID: 1131166783222558371, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1937217388}
+    - targetCorrespondingSourceObject: {fileID: 2103244932875384389, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1435049668}
+    - targetCorrespondingSourceObject: {fileID: 1300841774886369540, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1505747633}
+    - targetCorrespondingSourceObject: {fileID: 8949699614645660664, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 479188120}
+    - targetCorrespondingSourceObject: {fileID: 4996864213948822880, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 679594808}
+    - targetCorrespondingSourceObject: {fileID: 6745073695157070427, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 563459573}
+    - targetCorrespondingSourceObject: {fileID: 661305423455954305, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1433534702}
+    - targetCorrespondingSourceObject: {fileID: 1004208891412279509, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1094623382}
+    - targetCorrespondingSourceObject: {fileID: 6657535988528763971, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 539309854}
+    - targetCorrespondingSourceObject: {fileID: 4859879644020948812, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1211602075}
+    - targetCorrespondingSourceObject: {fileID: 3423531435254840895, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2090670277}
+    - targetCorrespondingSourceObject: {fileID: 1608799822585048788, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1810977147}
+    - targetCorrespondingSourceObject: {fileID: 5279941009788853577, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 750295121}
+    - targetCorrespondingSourceObject: {fileID: 2483628981775666169, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 703835578}
+    - targetCorrespondingSourceObject: {fileID: 2674446429106257826, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 684193697}
+    - targetCorrespondingSourceObject: {fileID: 8094334534029699730, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 794626689}
+    - targetCorrespondingSourceObject: {fileID: 7859047977513415605, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1576736437}
+    - targetCorrespondingSourceObject: {fileID: 8668815530550242114, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 430113507}
+    - targetCorrespondingSourceObject: {fileID: 7722068181831998028, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 389154308}
+    - targetCorrespondingSourceObject: {fileID: 4709711059827110603, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 977867710}
+    - targetCorrespondingSourceObject: {fileID: 8629073133395180399, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1938223971}
+    - targetCorrespondingSourceObject: {fileID: 8476197644072319364, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1091166949}
+    - targetCorrespondingSourceObject: {fileID: 2497521196711321972, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1298925390}
+    - targetCorrespondingSourceObject: {fileID: 4046948121523986594, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1166115075}
+    - targetCorrespondingSourceObject: {fileID: 7080569340880971981, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2119797917}
+    - targetCorrespondingSourceObject: {fileID: 5017563861945232410, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 184614213}
+    - targetCorrespondingSourceObject: {fileID: 6783854921752332612, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 947262069}
+    - targetCorrespondingSourceObject: {fileID: 4929934734567470502, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 883025991}
+    - targetCorrespondingSourceObject: {fileID: 6325797556751835147, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 315419658}
+    - targetCorrespondingSourceObject: {fileID: 7006039007175795508, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1718265321}
+    - targetCorrespondingSourceObject: {fileID: 5289979839285938902, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 371412771}
+    - targetCorrespondingSourceObject: {fileID: 2257371448158515060, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 140891591}
+    - targetCorrespondingSourceObject: {fileID: 6964067896821243889, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 732692291}
+    - targetCorrespondingSourceObject: {fileID: 9000274252225956499, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1685232001}
+    - targetCorrespondingSourceObject: {fileID: 4600331097689117081, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 402705161}
+    - targetCorrespondingSourceObject: {fileID: 8959058227951742746, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1539246689}
+    - targetCorrespondingSourceObject: {fileID: 3843299599033837211, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1374936250}
+    - targetCorrespondingSourceObject: {fileID: 7985025790806354572, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1194813229}
+    - targetCorrespondingSourceObject: {fileID: 8552211125565851578, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 67694223}
+    - targetCorrespondingSourceObject: {fileID: 6563468649983617460, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 147866321}
+    - targetCorrespondingSourceObject: {fileID: 8810833159044306267, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1625215370}
+    - targetCorrespondingSourceObject: {fileID: 5182855600034585565, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1456649680}
+    - targetCorrespondingSourceObject: {fileID: 7267669721293653499, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1138356647}
+    - targetCorrespondingSourceObject: {fileID: 7536574316005476636, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 887853491}
+    - targetCorrespondingSourceObject: {fileID: 3167618897476866727, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1956136022}
+    - targetCorrespondingSourceObject: {fileID: 8744854155770461064, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1401471688}
+    - targetCorrespondingSourceObject: {fileID: 686689605936783422, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 853062584}
+    - targetCorrespondingSourceObject: {fileID: 2780681417615427187, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2130172044}
+    - targetCorrespondingSourceObject: {fileID: 6408048088216763389, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1827236814}
+    - targetCorrespondingSourceObject: {fileID: 1734227335886419310, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1958919811}
+    - targetCorrespondingSourceObject: {fileID: 5514242598248424718, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 731709443}
+    - targetCorrespondingSourceObject: {fileID: 589498137792322136, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1801398903}
+    - targetCorrespondingSourceObject: {fileID: 5426472468817310072, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 313606219}
+    - targetCorrespondingSourceObject: {fileID: 7448247312176336455, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 413721900}
+    - targetCorrespondingSourceObject: {fileID: 3364692271726910575, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 836643762}
+    - targetCorrespondingSourceObject: {fileID: 3283473887347190321, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 95393571}
+    - targetCorrespondingSourceObject: {fileID: 5793814451076202049, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1199160665}
+    - targetCorrespondingSourceObject: {fileID: 4490364392375724917, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 417740604}
+    - targetCorrespondingSourceObject: {fileID: 1613060065288064098, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1615495667}
+    - targetCorrespondingSourceObject: {fileID: 3563858124937586334, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1180733085}
+    - targetCorrespondingSourceObject: {fileID: 6497003614020155425, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 294242614}
+    - targetCorrespondingSourceObject: {fileID: 6894508539545641756, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1956744898}
+    - targetCorrespondingSourceObject: {fileID: 9221628873684702217, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 152433459}
+    - targetCorrespondingSourceObject: {fileID: 3403219811442544946, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1604391923}
+    - targetCorrespondingSourceObject: {fileID: 2047814836149776998, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 174973986}
+    - targetCorrespondingSourceObject: {fileID: 6269088690109402021, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1910605068}
+    - targetCorrespondingSourceObject: {fileID: 3030433771111001969, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 703590835}
+    - targetCorrespondingSourceObject: {fileID: 3769224313521095497, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1319335769}
+    - targetCorrespondingSourceObject: {fileID: 3138475465296352840, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1756522692}
+    - targetCorrespondingSourceObject: {fileID: 5632900682174433447, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 623886119}
+    - targetCorrespondingSourceObject: {fileID: 3444068242352474352, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 487539876}
+    - targetCorrespondingSourceObject: {fileID: 6603678403105876672, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1813595604}
+    - targetCorrespondingSourceObject: {fileID: 2599410474181149338, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 118053679}
+    - targetCorrespondingSourceObject: {fileID: 6548369835126744653, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1679528068}
+    - targetCorrespondingSourceObject: {fileID: 5963275066329190764, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 71220014}
+    - targetCorrespondingSourceObject: {fileID: 566240551070867700, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1276444137}
+    - targetCorrespondingSourceObject: {fileID: 7808373109503777152, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1984079464}
+    - targetCorrespondingSourceObject: {fileID: 7860569715904235850, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1693488837}
+    - targetCorrespondingSourceObject: {fileID: 5192430942472074874, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 593258}
+    - targetCorrespondingSourceObject: {fileID: 1687154353448577934, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 128432502}
+    - targetCorrespondingSourceObject: {fileID: 2055775074269804859, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 25326677}
+    - targetCorrespondingSourceObject: {fileID: 1248672850325386696, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 523200098}
+    - targetCorrespondingSourceObject: {fileID: 2114013342469578173, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 805762563}
+    - targetCorrespondingSourceObject: {fileID: 300274545469517945, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 17888887}
+    - targetCorrespondingSourceObject: {fileID: 1053075733639178185, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 304190026}
+    - targetCorrespondingSourceObject: {fileID: 6361024757828302128, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1939571640}
+    - targetCorrespondingSourceObject: {fileID: 6931674344956115583, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 713258128}
+    - targetCorrespondingSourceObject: {fileID: 3235130980584075169, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 205777979}
+    - targetCorrespondingSourceObject: {fileID: 1380404511442203555, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 800705607}
+    - targetCorrespondingSourceObject: {fileID: 6472496425404531150, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 572484577}
+    - targetCorrespondingSourceObject: {fileID: 2779970420559094837, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1193033550}
   m_SourcePrefab: {fileID: 100100000, guid: c656bf50b41f7724e9781a50e55097af, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
@@ -881,3 +5109,4 @@ SceneRoots:
   - {fileID: 2047967332}
   - {fileID: 367009856}
   - {fileID: 5176271283101827734}
+  - {fileID: 2082237079}
